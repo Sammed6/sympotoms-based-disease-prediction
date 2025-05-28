@@ -10,9 +10,3 @@ Project topic -  Symptom based Disease prediction using Machine Learning
 4. type your name and select Symptom 
 
 5. press models to predict the model. 
-
-Thanks for watching.....
-
-By,
-SPARKTECH INNOVATIONS.......
-8904892715
